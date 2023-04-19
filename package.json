@@ -1,0 +1,16 @@
+{
+  "name": "quiz-block",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "wp-scripts start src/index.js src/frontend.js",
+    "build": "wp-scripts build src/index.js src/frontend.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wordpress/scripts": "^26.2.0"
+  }
+}

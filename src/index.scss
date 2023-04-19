@@ -1,0 +1,19 @@
+.quiz-edit-block {
+    background-color: #fdfdfd;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    padding: 20px;
+    margin-bottom: 20px;
+
+    .mark-as-correct {
+        color: #ffd700;
+        cursor: pointer;
+        position: relative;
+    }
+
+    .attention-delete {
+        color: #ff0000;
+        cursor: pointer;
+        position: relative;
+    }
+}
